@@ -8,12 +8,18 @@ A place to describe the Next Gen Arduino and Pi and like boards. Feel free to Fo
 TOC:
 ----
 
+* [Next Gen Arduino and Like Boards](next gen arduino and like boards)
+* [Next Gen Pi and Like Boards](next gen pi and like boards)
+* [Next Gen Hybrid Boards](next gen hybrid boards)
+
 #### Fields:
 
 * Tags: e.g. Wifi, Long-Range, Low-Energy, Quad-Core
 
 
 
+
+### Next Gen Arduino and Like Boards
 
 | Name | Tags | Short Description | Price | Link |
 | :---: | :---: | :---: | :---: | :---: |
