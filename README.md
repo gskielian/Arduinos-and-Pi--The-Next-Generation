@@ -9,25 +9,13 @@ TOC:
 ----
 
 * [Next Gen Arduino and Like Boards](#next-gen-arduino-and-like-boards)
-* [Next Gen Pi and Like Boards](#next gen pi and like boards)
-* [Next Gen Hybrid Boards](#next gen hybrid boards)
+* [Next Gen Pi and Like Boards](#next-gen-pi-and-like-boards)
+* [Next Gen Hybrid Boards](#next-gen-hybrid-boards-all-arms-included)
 
 #### Fields:
 
 * Tags: e.g. Wifi, Long-Range, Low-Energy, Quad-Core
 
-
-
-
-### Next Gen Arduino and Like Boards
-
-| Name | Tags | Short Description | Price | Link |
-| :---: | :---: | :---: | :---: | :---: |
-| Flutter | Long-Range | Wireless-Arduino with Half-Mile (1km) Range) | $20 | [link](https://www.kickstarter.com/projects/flutterwireless/flutter-20-wireless-arduino-with-half-mile-1km-ran) |
-
-
-<!-- |Format for additioanl entries -->
-<!-- | Name | Tags | Short Description | Price | Link | -->
 
 ---
 
@@ -36,8 +24,20 @@ TOC:
 
 | Name | Tags | Short Description | Price | Link |
 | :---: | :---: | :---: | :---: | :---: |
-| Flutter | Long-Range | Wireless-Arduino with Half-Mile (1km) Range) | $20 | [link](https://www.kickstarter.com/projects/flutterwireless/flutter-20-wireless-arduino-with-half-mile-1km-ran) |
+| Flutter | Long-Range | "Wireless-Arduino with Half-Mile (1km) Range)" | $20 | [link](https://www.kickstarter.com/projects/flutterwireless/flutter-20-wireless-arduino-with-half-mile-1km-ran) |
 
+
+<!-- |Format for additioanl entries -->
+<!-- | Name | Tags | Short Description | Price | Link | -->
+
+---
+
+
+### Next Gen Pi and Like Boards
+
+| Name | Tags | Short Description | Price | Link |
+| :---: | :---: | :---: | :---: | :---: |
+| BeagleBone Black  | low-cost, low-power | "BeagleBone Black is a $45 community-supported development platform for developers and hobbyists." | $45 | [link](http://beagleboard.org/Products/BeagleBone+Black) |
 
 <!-- |Format for additioanl entries -->
 <!-- | Name | Tags | Short Description | Price | Link | -->
@@ -49,8 +49,8 @@ TOC:
 
 | Name | Tags | Short Description | Price | Link |
 | :---: | :---: | :---: | :---: | :---: |
-| Flutter | Long-Range | Wireless-Arduino with Half-Mile (1km) Range) | $20 | [link](https://www.kickstarter.com/projects/flutterwireless/flutter-20-wireless-arduino-with-half-mile-1km-ran) |
-
+| Flutter | Long-Range | "Wireless-Arduino with Half-Mile (1km) Range)" | $20 | [link](https://www.kickstarter.com/projects/flutterwireless/flutter-20-wireless-arduino-with-half-mile-1km-ran) |
+| BeagleBone Black  | low-cost, low-power | "BeagleBone Black is a $45 community-supported development platform for developers and hobbyists." | $45 | [link](http://beagleboard.org/Products/BeagleBone+Black) |
 
 <!-- |Format for additioanl entries -->
 <!-- | Name | Tags | Short Description | Price | Link | -->
