@@ -25,6 +25,11 @@ TOC:
 | Name | Tags | Short Description | Price | Link |
 | :---: | :---: | :---: | :---: | :---: |
 | Flutter | Long-Range | "Wireless-Arduino with Half-Mile (1km) Range)" | $20 | [link](https://www.kickstarter.com/projects/flutterwireless/flutter-20-wireless-arduino-with-half-mile-1km-ran) |
+| BLEduino | BLE, Bluetooth, Long-Battery Life | Has App Integration | $34 | [link](https://www.kickstarter.com/projects/flutterwireless/flutter-20-wireless-arduino-with-half-mile-1km-ran) |
+
+
+
+http://bleduino.cc/
 
 
 <!-- |Format for additioanl entries -->
