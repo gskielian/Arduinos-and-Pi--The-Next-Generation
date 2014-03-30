@@ -49,6 +49,7 @@ TOC:
 
 | Name | Tags | Short Description | Price | Link |
 | :---: | :---: | :---: | :---: | :---: |
+| Radxa Rock | Quad-Core-2GB-RAM 1.6 GHz A9 Mali 400 GPU with GPIOs ADC's I2C etc | "everything" -- Greg | $99 | [link](http://radxa.com/features/) |  
 | Flutter | Long-Range | "Wireless-Arduino with Half-Mile (1km) Range)" | $20 | [link](https://www.kickstarter.com/projects/flutterwireless/flutter-20-wireless-arduino-with-half-mile-1km-ran) |
 | BeagleBone Black  | low-cost, low-power | "BeagleBone Black is a $45 community-supported development platform for developers and hobbyists." | $45 | [link](http://beagleboard.org/Products/BeagleBone+Black) |
 
