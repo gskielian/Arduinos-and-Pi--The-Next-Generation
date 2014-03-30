@@ -27,6 +27,7 @@ TOC:
 | Flutter | Long-Range | "Wireless-Arduino with Half-Mile (1km) Range)" | $20 | [link](https://www.kickstarter.com/projects/flutterwireless/flutter-20-wireless-arduino-with-half-mile-1km-ran) |
 | LightBlue Bean | BLE, Bluetooth, Long-Battery Life | Bluetooth Low Energy with App Integration | $20 | [link](https://launch.punchthrough.com) |
 | BLEduino | BLE, Bluetooth, Long-Battery Life | Bluetooth Low Energy with App Integration | $34 | [link](http://bleduino.cc) |
+| Ruggeduino | up to 24V on Logic pins -- Electrically Rugged | Industrial strength, hobbyist price | $39.95 | [link](http://www.ruggedcircuits.com/microcontroller-boards/ruggeduino) |
 
 
 
