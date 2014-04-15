@@ -29,6 +29,7 @@ TOC:
 | BLEduino | BLE, Bluetooth, Long-Battery Life | Bluetooth Low Energy with App Integration | $34 | [link](http://bleduino.cc) |
 | Ruggeduino | up to 24V on Logic pins -- Electrically Rugged | Industrial strength, hobbyist price | $39.95 | [link](http://www.ruggedcircuits.com/microcontroller-boards/ruggeduino) |
 | Arduino Board Tre | Arduino, BeagleBone, Linux | Runs Linux, like a BeagleBone + Arduino | :question: | [link](http://arduino.cc/en/Main/ArduinoBoardTre) |
+| Digispark Pro - digiStump | tiny, cheap, mobile ready, usb and mobile dev board | Digispark Pro - tiny, Arduino ready, mobile & usb dev board! | $10 | https://www.kickstarter.com/projects/digistump/digispark-pro-tiny-arduino-ready-mobile-and-usb-de |
 
 
 <!-- |Format for additioanl entries -->
